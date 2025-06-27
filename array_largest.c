@@ -1,4 +1,3 @@
-// Implement a C program to calculate the sum of all elements in an array.
 // Create a program in C to find the largest element in an array.
 
 #include <stdio.h>
