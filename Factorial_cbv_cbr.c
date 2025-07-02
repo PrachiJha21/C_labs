@@ -1,4 +1,4 @@
-/*write a program to calc the factorial of a number using call by reference to
+/*write a program to calculate the factorial of a number using call by reference to
 store the result in the caller function*/
 
 
